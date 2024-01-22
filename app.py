@@ -2,19 +2,21 @@ from selenium import webdriver
 
 
 # https://www.athome.co.jp/mansion/chuko/
-
+# - 買う
+#   - マンション
+#       - 中古マンション
 #       https://www.athome.co.jp/mansion/chuko/tokyo/city/ 東京 - 中古マンション
-#       https://www.athome.co.jp/mansion/chuko/reform-renovation/tokyo/city/ 東京 - リフォーム・リノベーションマンション
-#       https://www.athome.co.jp/mansion/ownerchange/tokyo/city/ 東京 - オーナーチェンジ マンション
-
-
 #       https://www.athome.co.jp/mansion/chuko/osaka/city/ 大阪 - 中古マンション
-#       https://www.athome.co.jp/mansion/chuko/reform-renovation/osaka/city/ 大阪 - リフォーム・リノベーションマンション
-#       https://www.athome.co.jp/mansion/ownerchange/osaka/city/ 大阪 - オーナーチェンジ マンション
-
-
 #       https://www.athome.co.jp/mansion/chuko/hokkaido/city/ 北海道 - 中古マンション
+
+#       - リフォーム・リノベーションマンション
+#       https://www.athome.co.jp/mansion/chuko/reform-renovation/tokyo/city/ 東京 - リフォーム・リノベーションマンション
+#       https://www.athome.co.jp/mansion/chuko/reform-renovation/osaka/city/ 大阪 - リフォーム・リノベーションマンション
 #       https://www.athome.co.jp/mansion/chuko/reform-renovation/hokkaido/city/ 北海道 - リフォーム・リノベーションマンション
+
+#       - オーナーチェンジ マンション
+#       https://www.athome.co.jp/mansion/ownerchange/tokyo/city/ 東京 - オーナーチェンジ マンション
+#       https://www.athome.co.jp/mansion/ownerchange/osaka/city/ 大阪 - オーナーチェンジ マンション
 #       https://www.athome.co.jp/mansion/ownerchange/hokkaido/city/  北海道 - オーナーチェンジ マンション
 
 
